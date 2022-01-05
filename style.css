@@ -1,0 +1,20 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.name{color: brown;}
+section{display: flex;}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img {
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 30px;
+    color: whitesmoke;
+    font-weight: 400;
+    border-radius: 5px;
+}
